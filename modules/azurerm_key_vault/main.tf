@@ -29,5 +29,5 @@ resource "azurerm_key_vault" "kv" {
   }
 }
 
-#chacha  vta
+#chacha  vta   gta
 
